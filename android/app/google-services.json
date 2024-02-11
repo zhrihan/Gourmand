@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193558942218",
+    "project_id": "gormund-8a893",
+    "storage_bucket": "gormund-8a893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193558942218:android:adb95a54ce7a5f5452c5f3",
+        "android_client_info": {
+          "package_name": "com.example.gormund"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK5gyrVtim9I6ayED38z84I7cm-oWgzrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
